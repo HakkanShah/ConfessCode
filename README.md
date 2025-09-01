@@ -1,5 +1,4 @@
-# <ConfessCode/> - Anonymous Confession Platform
-
+# <ConfessCode/>
 <div align="center">
   <img src="public/icons/dp.png" alt="ConfessCode Logo" width="120px" />
   <h1 align="center">&lt;ConfessCode/&gt;</h1>
