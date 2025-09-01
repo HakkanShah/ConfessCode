@@ -4,7 +4,7 @@
   <img src="public/icons/dp.png" alt="ConfessCode Logo" width="120px" />
   <h1 align="center">&lt;ConfessCode/&gt;</h1>
   <p align="center">
-    An anonymous, coder platform for sharing secrets, confessions, and stories without revealing your identity.
+    An anonymous, coder friendly platform for sharing secrets, confessions, and stories without revealing your identity.
   </p>
   <p align="center">
     <a href="https://concode.vercel.app/" target="_blank"><strong>View Live Demo »</strong></a>
