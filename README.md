@@ -17,7 +17,7 @@
 
 ## 🚀 Overview
 
-*<ConfessCode/>* is a full-stack Next.js application designed as a safe and anonymous space for users to share confessions. It features a unique "Code terminal" aesthetic, client-side anonymity management, AI-powered content moderation, and a complete admin dashboard for content management.
+*ConfessCode* is a full-stack Next.js application designed as a safe and anonymous space for users to share confessions. It features a unique "Code terminal" aesthetic, client-side anonymity management, AI-powered content moderation, and a complete admin dashboard for content management.
 
 The platform is built to be secure and private by design—it never stores user credentials, passwords, or personal information. Anonymity is managed through a locally stored hash, ensuring user privacy.
 
