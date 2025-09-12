@@ -33,7 +33,7 @@ interface Confession extends BaseConfession {
 
 // --- SYNTAX HIGHLIGHTER (Updated with new "Cosmic Night" colors) ---
 const CodeSyntaxHighlighter = ({ text }: { text: string }) => {
-    const KEYWORDS = ['fix', 'bug', 'error', 'pushed', 'main', 'production', 'friday', 'debug', 'console.log', 'git', 'commit', 'database', 'server', 'client', 'react', 'javascript', 'typescript', 'css', 'html', 'python', 'java', 'c#', 'c++', 'php', 'ruby', 'go', 'rust', 'sql'];
+    const KEYWORDS = ['Hakkan','fix', 'bug', 'error', 'pushed', 'main', 'production', 'friday', 'debug', 'console.log', 'git', 'commit', 'database', 'server', 'client', 'react', 'javascript', 'typescript', 'css', 'html', 'python', 'java', 'c#', 'c++', 'php', 'ruby', 'go', 'rust', 'sql'];
     return (
       <pre className="whitespace-pre-wrap break-words font-code text-sm leading-relaxed">
         <code>
