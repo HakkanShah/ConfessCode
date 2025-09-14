@@ -96,7 +96,7 @@ export default function AdminLoginPage() {
             <Input
               name="secretKey"
               type="password"
-              placeholder="Enter your secret key"
+              placeholder="Enter Your Secret Key"
               required
             />
           </CardContent>
