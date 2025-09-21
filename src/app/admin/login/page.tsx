@@ -56,7 +56,7 @@ function SubmitButton() {
     </Button>
   );
 }
-
+ 
 export default function AdminLoginPage() {
   const { toast } = useToast();
   const router = useRouter();
