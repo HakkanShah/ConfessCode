@@ -69,16 +69,16 @@ To get a local copy up and running, follow these simple steps.
 3.  *Set up environment variables:*
     Create a .env file in the root of the project and add the following keys. You will need to create a Supabase project to get these values.
 
-    env
-    # Supabase URL and Keys
+    # env
+    ## Supabase URL and Keys
     NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
     NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
     SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key
 
-    # Secret key for the admin dashboard
+    ## Secret key for the admin dashboard
     ADMIN_SECRET_KEY=your_super_secret_admin_key
 
-    # (Optional) Google AI API Key for Genkit
+    ## (Optional) Google AI API Key for Genkit
     GEMINI_API_KEY=your_gemini_api_key
     
 
