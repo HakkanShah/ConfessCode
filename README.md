@@ -65,7 +65,6 @@ To get a local copy up and running, follow these simple steps.
     sh
     npm install
     
-
 3.  *Set up environment variables:*
     Create a .env file in the root of the project and add the following keys. You will need to create a Supabase project to get these values.
 
