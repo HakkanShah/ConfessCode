@@ -105,7 +105,7 @@ export default function ConfessionForm() {
         {/* 📝 Input */}
         <Textarea
           name="confession"
-          placeholder="> Mera bestfriend Gay hai..."
+          placeholder="> Write your confessions here..."
           rows={5}
           required
           minLength={10}
