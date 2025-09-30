@@ -1,4 +1,4 @@
-# **App Name**: <ConfessCode/>
+# **App Name**: ConfessCode
 
 ## Core Features:
 
