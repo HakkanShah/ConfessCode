@@ -36,7 +36,7 @@ const Header = () => {
     if (outcome === "accepted") setInstallPrompt(null);
   };
 
-  /* 🔐 Check Activation Status */
+  /*  🔐 Check Activation Status */
   useEffect(() => {
     const checkActivation = () => {
       const activated = Cookies.get("is_activated") === "true";
