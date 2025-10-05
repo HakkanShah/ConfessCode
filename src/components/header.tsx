@@ -117,7 +117,7 @@ const Header = () => {
           >
             <Info className="h-4 w-4 text-accent" />
           </button>
-
+ 
           {/* 📲 Install App */}
           {installPrompt && (
             <button
