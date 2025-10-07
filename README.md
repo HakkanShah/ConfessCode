@@ -44,7 +44,7 @@ This project is built with a modern, robust, and scalable technology stack.
 - *Icons*: [Lucide React](https://lucide.dev/)
 - *Deployment*: Vercel, Netlify, or any Node.js compatible platform.
 
-## ⚙ Getting Started
+## ⚙ Getting Started 
 
 To get a local copy up and running, follow these simple steps.
 
