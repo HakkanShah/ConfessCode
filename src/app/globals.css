@@ -114,7 +114,7 @@
     mix-blend-mode: overlay;
   }
 
-  /* Hacker Buttons */
+  
   .btn-hacker {
     @apply relative px-4 py-2 font-mono border rounded-md transition;
     border-color: hsl(var(--accent));
