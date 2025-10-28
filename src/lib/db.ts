@@ -2,7 +2,6 @@ import type { Confession } from './types';
 import { createServiceRoleServerClient } from './supabase/server';
 import { cookies } from 'next/headers';
 
-
 export async function isUserBanned(anonHash: string): Promise<boolean> {
     const cookieStore = cookies();
     const supabase = createServiceRoleServerClient(cookieStore);
