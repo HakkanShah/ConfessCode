@@ -57,7 +57,7 @@ function SubmitButton() {
               1.135 5.824 3 7.938l3-2.647z"
             />
           </svg>
-          verifying...
+          Verifying...
         </>
       ) : (
         <>
