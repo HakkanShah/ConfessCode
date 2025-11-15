@@ -94,4 +94,3 @@ The application should now be running on [http://localhost:9002](http://localhos
 ## 🔑 Accessing the App
 
 -   *User Access*: Navigate to the homepage and click "Activate." Use the default key WELCOME to generate your anonymous identity.
--   *Admin Access*: Navigate to /admin/login and enter the ADMIN_SECRET_KEY you defined in your .env file.
